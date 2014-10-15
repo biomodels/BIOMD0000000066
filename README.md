@@ -1,3 +1,21 @@
+# BIOMD0000000066: Chassagnole2001_Threonine_Synthesis
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000066.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000066.git@20140916`
+
+
+# Model Notes
 
 
 .
@@ -35,4 +53,5 @@ into consideration are those given for "variable threonine" in Table 3. The
 following are the assay correction factors provided by the authors: vak1=1.49;
 vak3=1.12; vasd=1.14; vhsd=1.42; vts=1.15; vhk=1.13. The model was
 successfully tested on MathSBML and Jarnac
+
 
